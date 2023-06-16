@@ -1,0 +1,7 @@
+cd devops-trial
+git config --global user.name "{Your-name}"
+git config --global user.email "{your-email-id}"
+git add .
+git commit -m "Added add 10 + 80"
+git push
+
